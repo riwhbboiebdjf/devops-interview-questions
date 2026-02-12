@@ -7,7 +7,7 @@
 A comprehensive collection of **106 interview questions** and answers for DevOps engineering positions.
 
 <p align="center">
-  <b>If you find this useful, please</b> ⭐ <b>star this repository — it helps others discover it!</b>
+  <b>If you find this useful, please</b> ⭐ <b>star this repository as it helps others to discover it!</b>
 </p>
 
 ---
