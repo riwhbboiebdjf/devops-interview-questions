@@ -10,6 +10,8 @@ A comprehensive collection of **106 interview questions** and answers for DevOps
   <b>If you find this useful, please</b> ⭐ <b>star this repository as it helps others to discover it!</b>
 </p>
 
+How questions were sourced -> <a href="https://prepare.sh/documentation/how-preparesh-get-interview-question">read here</a>
+
 ---
 
 ## 🏢 Companies
