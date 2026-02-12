@@ -1,3 +1,7 @@
+Hi Everyone, My name is Alex and I'm a DevOps/Software Engineer. During last year I had a couple of interviews at big tech plus a few other tier 2-3 companies. I collected all that plus other questions that I found on glassdoor, blind etc in this github repo. I've added my own video explanations to solve those questions.
+
+I hope this will help you to prepare and pass. If you ever feel like thanking me just Star the repository.
+
 <p align="center">
   <img src="pht.png" alt="DevOps Interview Preparation"/>
 </p>
